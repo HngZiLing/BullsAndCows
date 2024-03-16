@@ -70,5 +70,3 @@ BeginnersBook. https://beginnersbook.com/2015/03/do-while-loop-in-java-with-exam
 ## JavaDoc
 
 [Open JavaDoc in Browser](https://hngziling.github.io/JavaDoc/my/uum/package-summary.html)
-
-[Open the JavaDoc File](https://github.com/STIW3054-A221/assignment-1-HngZiLing/blob/404521c5a7b57ac75232551c1a7deb0a253a1884/JavaDoc)
